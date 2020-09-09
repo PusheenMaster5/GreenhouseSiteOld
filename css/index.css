@@ -1,0 +1,89 @@
+.logotxt {
+	font-size: 24px;
+	padding: 0px;
+	margin: 0px;
+}
+
+.front {
+	display: inline-block;
+	margin: 10px;
+	padding: 20px;
+}
+
+.frontimg {
+	width: 65%;
+	display: inline-block;
+	float: left;
+}
+
+.imgfront {
+	display: block;
+	margin: auto;
+	width: 92%;
+	border-radius: 15px;
+	max-width: 1250px;
+}
+
+.fronttxt {
+	width: 33%;
+	display: inline-block;
+	font-size: 18px;
+}
+
+ul {
+	list-style-type: circle;
+}
+
+.ul {
+	display: block;
+	margin: auto;
+}
+
+.pics {
+	display: flex;
+}
+
+.pics1 {
+	width: 30%;
+	display: block;
+	margin: auto;
+	border-radius: 5px;
+}
+
+.vid {
+	width: 98%;
+	padding: 10px;
+}
+
+.testimonial {
+	float: left;
+	width:45%;
+	margin: 10px;
+	text-align: center;
+	border: 2px solid grey;
+	margin-top: 20px;
+	border-radius: 5px;
+	margin-left: 21px;
+}
+
+.testimonial1 {
+
+}
+
+.vid1 {
+	padding: 20px;
+	border-radius: 10px;
+}
+
+video {
+	display: block;
+	width: 50%;
+	margin: auto;
+}
+
+/*
+The code vault
+border: 5px solid #001f3f;
+
+	width: 20%
+*/

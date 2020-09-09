@@ -1,0 +1,27 @@
+* {
+	font-family: 'Questrial', sans-serif;
+	background-color: LightBlue;
+}
+
+body {
+	min-width: 728px;
+	cursor: wait;
+}
+
+nav {
+	padding: 10px;
+	text-align: center;
+	border-bottom: 2px solid grey;
+}
+
+a:link {
+	color: #3D9970;
+}
+
+a:hover {
+	color: #e3a18f;
+}
+
+a:visited {
+	color: #a8195f;
+}
