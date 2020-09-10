@@ -3,6 +3,10 @@
 	margin: 0px;
 }
 
+.inherit{
+	background-color: inherit;
+}
+
 .front {
 	display: inline-block;
 	margin: 10px;
@@ -66,7 +70,12 @@ ul {
 }
 
 .testimonial1 {
+	font-style: oblique;
+}
 
+blockquote {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 16px;
 }
 
 .vid1 {
@@ -78,6 +87,46 @@ video {
 	display: block;
 	width: 49%;
 	margin: auto;
+}
+
+.comments {
+	width: 98%;
+	display: block;
+	margin: auto;
+	padding: 10px;
+}
+
+.gif {
+	width: 50%;
+	float: left;
+	display: inline-block;
+}
+
+.gif1 {
+	margin: auto;
+	display: block;
+	width: 90%;
+}
+
+.comments1 {
+	width: 45%;
+	display: inline-block;
+}
+
+.comments2 {
+	width: 99%;
+}
+
+.comments3 {
+	width: 90%;
+	display: block;
+	margin: auto;
+}
+
+.gradient {
+  background: rgba(255,221,0,1);
+  background: -webkit-linear-gradient(top, rgba(255,221,0,1) 0%, rgba(184,147,0,1) 100%);
+  background: linear-gradient(to bottom, rgba(255,221,0,1) 0%, rgba(184,147,0,1) 100%);
 }
 
 /*
